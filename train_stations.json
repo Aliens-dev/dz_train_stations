@@ -1,0 +1,2117 @@
+{
+	"Gare train": "Array",
+	"data": [
+		{
+			"code": "37",
+			"nom_fr": "ALGER (AGHA )",
+			"nom_ar": "(آغا) الجزائر",
+			"lt": "36.7686048",
+			"lng": "3.0571895",
+			"image": null
+		},
+		{
+			"code": "39",
+			"nom_fr": "AIN AFFRA",
+			"nom_ar": "عين عفرا",
+			"lt": "36.3987741",
+			"lng": "7.8280416",
+			"image": null
+		},
+		{
+			"code": "42",
+			"nom_fr": "AIN DEFLA",
+			"nom_ar": "عين الدفلى",
+			"lt": "36.2677037",
+			"lng": "1.969562199999999",
+			"image": null
+		},
+		{
+			"code": "43",
+			"nom_fr": "AIN DOUZ",
+			"nom_ar": "عين الدوز",
+			"lt": "36.2677037",
+			"lng": "1.969562199999999",
+			"image": null
+		},
+		{
+			"code": "44",
+			"nom_fr": "AIN EL BERD",
+			"nom_ar": "عين البرد",
+			"lt": "35.3626465",
+			"lng": "-0.5111887",
+			"image": null
+		},
+		{
+			"code": "45",
+			"nom_fr": "AIN FEZZA",
+			"nom_ar": "عين فزة",
+			"lt": "34.87599",
+			"lng": "-1.23271",
+			"image": null
+		},
+		{
+			"code": "48",
+			"nom_fr": "AIN M LILA",
+			"nom_ar": "عين مليلة",
+			"lt": "36.03828",
+			"lng": "6.5842313",
+			"image": null
+		},
+		{
+			"code": "49",
+			"nom_fr": "AIN NAADJA",
+			"nom_ar": "عين النعجة",
+			"lt": "36.689049",
+			"lng": "3.0759443",
+			"image": null
+		},
+		{
+			"code": "52",
+			"nom_fr": "AIN SEFRA",
+			"nom_ar": "عين الصفراء",
+			"lt": "32.7586562",
+			"lng": "-0.6014158",
+			"image": null
+		},
+		{
+			"code": "53",
+			"nom_fr": "AIN SENNOUR",
+			"nom_ar": "عين سنور",
+			"lt": "32.7586562",
+			"lng": "-0.6014158",
+			"image": null
+		},
+		{
+			"code": "55",
+			"nom_fr": "AIN TAHMIMINE",
+			"nom_ar": "عين تاحميمين",
+			"lt": "36.4055884",
+			"lng": "7.801953",
+			"image": null
+		},
+		{
+			"code": "56",
+			"nom_fr": "AIN TELLOUT",
+			"nom_ar": "عين تالوت",
+			"lt": "34.9296544",
+			"lng": "-0.9589787",
+			"image": null
+		},
+		{
+			"code": "57",
+			"nom_fr": "AIN TORKI",
+			"nom_ar": "عين تركي",
+			"lt": "36.309905",
+			"lng": "2.290426",
+			"image": null
+		},
+		{
+			"code": "58",
+			"nom_fr": "AIN TOUTA",
+			"nom_ar": "عين توتة",
+			"lt": "35.38614",
+			"lng": "5.9004413",
+			"image": null
+		},
+		{
+			"code": "59",
+			"nom_fr": "AIN YAGOUT",
+			"nom_ar": "عين ياقوت",
+			"lt": "35.7692795",
+			"lng": "6.3995231",
+			"image": null
+		},
+		{
+			"code": "62",
+			"nom_fr": "AIN_FEKROUN",
+			"nom_ar": "عين فكرون",
+			"lt": "35.7692795",
+			"lng": "6.3995231",
+			"image": null
+		},
+		{
+			"code": "67",
+			"nom_fr": "AKBOU",
+			"nom_ar": "أقبو",
+			"lt": "36.4560722",
+			"lng": "4.5316448",
+			"image": null
+		},
+		{
+			"code": "68",
+			"nom_fr": "AKID ABBAS",
+			"nom_ar": "عقيد عباس",
+			"lt": "34.78702",
+			"lng": "-1.80136",
+			"image": null
+		},
+		{
+			"code": "69",
+			"nom_fr": "ALGER",
+			"nom_ar": "الجزائر",
+			"lt": "36.779416",
+			"lng": "3.061719",
+			"image": null
+		},
+		{
+			"code": "70",
+			"nom_fr": "ALLAGHAN",
+			"nom_ar": "الاغان",
+			"lt": "36.3984222",
+			"lng": "4.4414896",
+			"image": null
+		},
+		{
+			"code": "71",
+			"nom_fr": "ANNABA",
+			"nom_ar": "عنابة",
+			"lt": "36.8953",
+			"lng": "7.7564313",
+			"image": null
+		},
+		{
+			"code": "75",
+			"nom_fr": "ATELIERS",
+			"nom_ar": "الورشات",
+			"lt": "36.7565174",
+			"lng": "3.065479099999999",
+			"image": null
+		},
+		{
+			"code": "78",
+			"nom_fr": "AZZABA",
+			"nom_ar": "عزابة",
+			"lt": "36.7380503",
+			"lng": "7.1099077",
+			"image": null
+		},
+		{
+			"code": "80",
+			"nom_fr": "BORDJ MENAIEL",
+			"nom_ar": "برج منايل",
+			"lt": "36.751119",
+			"lng": "3.7367083",
+			"image": null
+		},
+		{
+			"code": "83",
+			"nom_fr": "BAB EZZOUAR",
+			"nom_ar": "باب الزوار",
+			"lt": "36.707058",
+			"lng": "3.1862036",
+			"image": null
+		},
+		{
+			"code": "84",
+			"nom_fr": "BABA ALI",
+			"nom_ar": "بابا علي",
+			"lt": "36.6669645",
+			"lng": "3.052182199999999",
+			"image": null
+		},
+		{
+			"code": "85",
+			"nom_fr": "BARIKA",
+			"nom_ar": "بريكة",
+			"lt": "36.6669645",
+			"lng": "3.052182199999999",
+			"image": null
+		},
+		{
+			"code": "86",
+			"nom_fr": "BATNA",
+			"nom_ar": "باتنة",
+			"lt": "35.56033",
+			"lng": "6.1712813",
+			"image": null
+		},
+		{
+			"code": "88",
+			"nom_fr": "BECHAR",
+			"nom_ar": "بشار",
+			"lt": "31.6225952",
+			"lng": "-2.2195444",
+			"image": null
+		},
+		{
+			"code": "89",
+			"nom_fr": "BECHLOULE EL ADJIBA",
+			"nom_ar": "بشلول العجيبة",
+			"lt": "36.3199482",
+			"lng": "4.1158237",
+			"image": null
+		},
+		{
+			"code": "90",
+			"nom_fr": "BEJAIA",
+			"nom_ar": "بجاية",
+			"lt": "36.7491163",
+			"lng": "5.0734432",
+			"image": null
+		},
+		{
+			"code": "94",
+			"nom_fr": "BENI AMRANE",
+			"nom_ar": "بني عمران",
+			"lt": "36.6591113",
+			"lng": "3.5886987",
+			"image": null
+		},
+		{
+			"code": "95",
+			"nom_fr": "BENI MANSOUR",
+			"nom_ar": "بني منصور",
+			"lt": "36.3350542",
+			"lng": "4.3517474",
+			"image": null
+		},
+		{
+			"code": "96",
+			"nom_fr": "BENI MERED",
+			"nom_ar": "بني مراد",
+			"lt": "36.52018940000001",
+			"lng": "2.8596041",
+			"image": null
+		},
+		{
+			"code": "97",
+			"nom_fr": "BENI OUNIF",
+			"nom_ar": "بني ونيف",
+			"lt": "32.0512638",
+			"lng": "-1.2519046",
+			"image": null
+		},
+		{
+			"code": "112",
+			"nom_fr": "BIRTOUTA",
+			"nom_ar": "بئر توتة",
+			"lt": "36.63085469999999",
+			"lng": "3.0096531",
+			"image": null
+		},
+		{
+			"code": "113",
+			"nom_fr": "BISKRA",
+			"nom_ar": "بسكرة",
+			"lt": "34.85932",
+			"lng": "5.7233713",
+			"image": null
+		},
+		{
+			"code": "114",
+			"nom_fr": "BLIDA",
+			"nom_ar": "بليدة",
+			"lt": "36.4786264",
+			"lng": "2.8161941",
+			"image": null
+		},
+		{
+			"code": "115",
+			"nom_fr": "BORDJ BOU ARRERIDJ",
+			"nom_ar": "برج بو عريريج",
+			"lt": "36.06316330000001",
+			"lng": "4.7474813",
+			"image": null
+		},
+		{
+			"code": "118",
+			"nom_fr": "BOU MEDFAA",
+			"nom_ar": "بو مدفع",
+			"lt": "36.366972",
+			"lng": "2.463087",
+			"image": null
+		},
+		{
+			"code": "119",
+			"nom_fr": "BOUCHEGOUF",
+			"nom_ar": "بوشقوف",
+			"lt": "36.4898883",
+			"lng": "7.7203436",
+			"image": null
+		},
+		{
+			"code": "120",
+			"nom_fr": "BOUDAROUA",
+			"nom_ar": "بوظروة",
+			"lt": "36.4898883",
+			"lng": "7.7203436",
+			"image": null
+		},
+		{
+			"code": "121",
+			"nom_fr": "BOUDOUAOU",
+			"nom_ar": "بودواو",
+			"lt": "36.7405671",
+			"lng": "3.4128615",
+			"image": null
+		},
+		{
+			"code": "122",
+			"nom_fr": "BOUFARIK",
+			"nom_ar": "بوفاريك",
+			"lt": "36.5671025",
+			"lng": "2.914161099999999",
+			"image": null
+		},
+		{
+			"code": "125",
+			"nom_fr": "BOUHENNI",
+			"nom_ar": "بوهني",
+			"lt": "36.5671025",
+			"lng": "2.914161099999999",
+			"image": null
+		},
+		{
+			"code": "126",
+			"nom_fr": "BOUIRA",
+			"nom_ar": "بويرة",
+			"lt": "36.3782706",
+			"lng": "3.8968286",
+			"image": null
+		},
+		{
+			"code": "127",
+			"nom_fr": "BOUKADIR",
+			"nom_ar": "بوقدير",
+			"lt": "36.0670616",
+			"lng": "1.1262381",
+			"image": null
+		},
+		{
+			"code": "128",
+			"nom_fr": "BOUKHADRA",
+			"nom_ar": "بوخضرة",
+			"lt": "36.8702958",
+			"lng": "7.7241497",
+			"image": null
+		},
+		{
+			"code": "129",
+			"nom_fr": "BOUKHALFA",
+			"nom_ar": "بوخالفة",
+			"lt": "36.7169556",
+			"lng": "4.018791",
+			"image": null
+		},
+		{
+			"code": "133",
+			"nom_fr": "BOUMAHRA",
+			"nom_ar": "بومهرة",
+			"lt": "36.7169556",
+			"lng": "4.018791",
+			"image": null
+		},
+		{
+			"code": "134",
+			"nom_fr": "BOUMERDES",
+			"nom_ar": "بومرداس",
+			"lt": "36.75323",
+			"lng": "3.47414",
+			"image": null
+		},
+		{
+			"code": "137",
+			"nom_fr": "BOUTLELIS",
+			"nom_ar": "بوتليليس",
+			"lt": "35.5679049",
+			"lng": "0.8968184",
+			"image": null
+		},
+		{
+			"code": "141",
+			"nom_fr": "CAROUBIER",
+			"nom_ar": "خروبة",
+			"lt": "36.7350706",
+			"lng": "3.1195576",
+			"image": null
+		},
+		{
+			"code": "142",
+			"nom_fr": "CHAIBA",
+			"nom_ar": "الشعيبة",
+			"lt": "36.8165196",
+			"lng": "7.7255552",
+			"image": null
+		},
+		{
+			"code": "143",
+			"nom_fr": "CHEBAITA M",
+			"nom_ar": "شبيطة مختار",
+			"lt": "36.7588854",
+			"lng": "7.741273",
+			"image": null
+		},
+		{
+			"code": "145",
+			"nom_fr": "CHIFFA",
+			"nom_ar": "الشفة",
+			"lt": "36.465074",
+			"lng": "2.739939",
+			"image": null
+		},
+		{
+			"code": "146",
+			"nom_fr": "CHIHANI BACHIR",
+			"nom_ar": "الشيحاني بشير",
+			"lt": "36.6503589",
+			"lng": "7.7741774",
+			"image": null
+		},
+		{
+			"code": "147",
+			"nom_fr": "CHLEF",
+			"nom_ar": "الشلف",
+			"lt": "36.1669003",
+			"lng": "1.3425552",
+			"image": null
+		},
+		{
+			"code": "148",
+			"nom_fr": "CONSTANTINE",
+			"nom_ar": "قسنطينة",
+			"lt": "36.3672867",
+			"lng": "6.6187423",
+			"image": null
+		},
+		{
+			"code": "149",
+			"nom_fr": "CORSO",
+			"nom_ar": "قورصو",
+			"lt": "36.7536967",
+			"lng": "3.4347197",
+			"image": null
+		},
+		{
+			"code": "150",
+			"nom_fr": "DRAA B.KHEDDA",
+			"nom_ar": "ذراع بن خدة",
+			"lt": "36.7270995",
+			"lng": "3.9528299",
+			"image": null
+		},
+		{
+			"code": "155",
+			"nom_fr": "DAR EL BEIDA",
+			"nom_ar": "الدار البيضاء",
+			"lt": "36.71467940000001",
+			"lng": "3.210783",
+			"image": null
+		},
+		{
+			"code": "158",
+			"nom_fr": "DJAMAA",
+			"nom_ar": "جامعة",
+			"lt": "33.5369031",
+			"lng": "5.9624433",
+			"image": null
+		},
+		{
+			"code": "162",
+			"nom_fr": "DRA EL MIZAN",
+			"nom_ar": "ذراع الميزان",
+			"lt": "36.483476",
+			"lng": "3.7453539",
+			"image": null
+		},
+		{
+			"code": "164",
+			"nom_fr": "DREA",
+			"nom_ar": "الدريعة",
+			"lt": "36.1212082",
+			"lng": "7.8838824",
+			"image": null
+		},
+		{
+			"code": "168",
+			"nom_fr": "EL AFFROUN",
+			"nom_ar": "العفرون",
+			"lt": "36.4734699",
+			"lng": "2.6249492",
+			"image": null
+		},
+		{
+			"code": "170",
+			"nom_fr": "EL AMRIA",
+			"nom_ar": "العامرية",
+			"lt": "35.521475",
+			"lng": "-1.0093352",
+			"image": null
+		},
+		{
+			"code": "175",
+			"nom_fr": "EL ATTAF",
+			"nom_ar": "العطاف",
+			"lt": "36.2255462",
+			"lng": "1.6712898",
+			"image": null
+		},
+		{
+			"code": "179",
+			"nom_fr": "EL ESNAM",
+			"nom_ar": "الأصنام",
+			"lt": "36.3137549",
+			"lng": "4.0709705",
+			"image": null
+		},
+		{
+			"code": "181",
+			"nom_fr": "EL GOURZI",
+			"nom_ar": "القرزي",
+			"lt": "36.1328",
+			"lng": "6.6051",
+			"image": null
+		},
+		{
+			"code": "182",
+			"nom_fr": "EL HADJAR",
+			"nom_ar": "الحجار",
+			"lt": "36.8020741",
+			"lng": "7.7398832",
+			"image": null
+		},
+		{
+			"code": "183",
+			"nom_fr": "EL HAMRI",
+			"nom_ar": "الحمري",
+			"lt": "36.8020741",
+			"lng": "7.7398832",
+			"image": null
+		},
+		{
+			"code": "185",
+			"nom_fr": "EL HARRACH",
+			"nom_ar": "الحراش",
+			"lt": "36.72151359999999",
+			"lng": "3.1328614",
+			"image": null
+		},
+		{
+			"code": "186",
+			"nom_fr": "EL HARROUCH",
+			"nom_ar": "الحروش",
+			"lt": "36.6606871",
+			"lng": "6.8276869",
+			"image": null
+		},
+		{
+			"code": "187",
+			"nom_fr": "EL KANTARA",
+			"nom_ar": "القنطرة",
+			"lt": "35.24047",
+			"lng": "5.6980813",
+			"image": null
+		},
+		{
+			"code": "189",
+			"nom_fr": "EL KHROUB",
+			"nom_ar": "الخروب",
+			"lt": "36.2588267",
+			"lng": "6.6852399",
+			"image": null
+		},
+		{
+			"code": "193",
+			"nom_fr": "EL MEGHAIER",
+			"nom_ar": "المغير",
+			"lt": "33.956851",
+			"lng": "5.935460",
+			"image": null
+		},
+		{
+			"code": "194",
+			"nom_fr": "EL MALEH",
+			"nom_ar": "المالح",
+			"lt": "0",
+			"lng": "0",
+			"image": null
+		},
+		{
+			"code": "196",
+			"nom_fr": "EL MILIA",
+			"nom_ar": "الميلية",
+			"lt": "36.8024681",
+			"lng": "6.1520917",
+			"image": null
+		},
+		{
+			"code": "198",
+			"nom_fr": "EL OUTAYA",
+			"nom_ar": "لوطاية",
+			"lt": "35.04039",
+			"lng": "5.5867113",
+			"image": null
+		},
+		{
+			"code": "202",
+			"nom_fr": "EL-EULMA",
+			"nom_ar": "العلمة",
+			"lt": "36.1475",
+			"lng": "5.6870613",
+			"image": null
+		},
+		{
+			"code": "205",
+			"nom_fr": "EMDJEZ.EDCHICHE",
+			"nom_ar": "أمجاز الدشيش",
+			"lt": "36.1475",
+			"lng": "5.6870613",
+			"image": null
+		},
+		{
+			"code": "206",
+			"nom_fr": "ES SENIA",
+			"nom_ar": "السانية",
+			"lt": "35.6499662",
+			"lng": "-0.607465",
+			"image": null
+		},
+		{
+			"code": "215",
+			"nom_fr": "GHAZAOUET",
+			"nom_ar": "الغزوات",
+			"lt": "35.0900585",
+			"lng": "-1.8585693",
+			"image": null
+		},
+		{
+			"code": "218",
+			"nom_fr": "GUE DE CONSTANTINE",
+			"nom_ar": "جسر قسنطينة",
+			"lt": "36.6968477",
+			"lng": "3.094913899999999",
+			"image": null
+		},
+		{
+			"code": "237",
+			"nom_fr": "HUSSEIN DEY",
+			"nom_ar": "حسين داي",
+			"lt": "36.7454351",
+			"lng": "3.0940193",
+			"image": null
+		},
+		{
+			"code": "239",
+			"nom_fr": "IL MATEN",
+			"nom_ar": "فناية الماثن",
+			"lt": "0",
+			"lng": "0",
+			"image": null
+		},
+		{
+			"code": "240",
+			"nom_fr": "ISSERS",
+			"nom_ar": "يسر",
+			"lt": "36.7300717",
+			"lng": "3.6651082",
+			"image": null
+		},
+		{
+			"code": "241",
+			"nom_fr": "JIJEL",
+			"nom_ar": "جيجل",
+			"lt": "36.80917",
+			"lng": "5.7736713",
+			"image": null
+		},
+		{
+			"code": "242",
+			"nom_fr": "KHEMIS.MILLIANA",
+			"nom_ar": "خميس مليانة",
+			"lt": "36.262760",
+			"lng": "2.212243",
+			"image": null
+		},
+		{
+			"code": "246",
+			"nom_fr": "KHEDARA",
+			"nom_ar": "الخضارة",
+			"lt": "36.262760",
+			"lng": "2.212243",
+			"image": null
+		},
+		{
+			"code": "251",
+			"nom_fr": "LAKHDARIA",
+			"nom_ar": "الأخضرية",
+			"lt": "36.5609649",
+			"lng": "3.5868143",
+			"image": null
+		},
+		{
+			"code": "255",
+			"nom_fr": "LOTTA",
+			"nom_ar": "لوطة",
+			"lt": "36.6390166",
+			"lng": "4.7700516",
+			"image": null
+		},
+		{
+			"code": "260",
+			"nom_fr": "MAGHNIA",
+			"nom_ar": "مغنية",
+			"lt": "34.8482486",
+			"lng": "-1.7802151",
+			"image": null
+		},
+		{
+			"code": "265",
+			"nom_fr": "MANSOURAH",
+			"nom_ar": "المنصورة",
+			"lt": "36.0799019",
+			"lng": "4.4610667",
+			"image": null
+		},
+		{
+			"code": "269",
+			"nom_fr": "M'DAOUROUCH",
+			"nom_ar": "مداوروش",
+			"lt": "36.07519",
+			"lng": "7.8228113",
+			"image": null
+		},
+		{
+			"code": "270",
+			"nom_fr": "M'DJEZ",
+			"nom_ar": "مجاز",
+			"lt": "36.07519",
+			"lng": "7.8228113",
+			"image": null
+		},
+		{
+			"code": "271",
+			"nom_fr": "MECHERIA",
+			"nom_ar": "المشرية",
+			"lt": "33.5434036",
+			"lng": "-0.2567058",
+			"image": null
+		},
+		{
+			"code": "273",
+			"nom_fr": "MECHROHA",
+			"nom_ar": "المشروحة",
+			"lt": "36.36221",
+			"lng": "7.8452013",
+			"image": null
+		},
+		{
+			"code": "274",
+			"nom_fr": "MEDJEZ SFA",
+			"nom_ar": "مجاز الصفاء",
+			"lt": "36.4415393",
+			"lng": "7.7702928",
+			"image": null
+		},
+		{
+			"code": "280",
+			"nom_fr": "MESKIANA",
+			"nom_ar": "مسكيانة",
+			"lt": "36.4415393",
+			"lng": "7.7702928",
+			"image": null
+		},
+		{
+			"code": "282",
+			"nom_fr": "MISSERGHINE",
+			"nom_ar": "مسرغين",
+			"lt": "35.6069016",
+			"lng": "-0.7347181",
+			"image": null
+		},
+		{
+			"code": "285",
+			"nom_fr": "MOGHRAR",
+			"nom_ar": "مغرار",
+			"lt": "32.5229246",
+			"lng": "-0.5737186",
+			"image": null
+		},
+		{
+			"code": "286",
+			"nom_fr": "MOHAMMADIA",
+			"nom_ar": "المحمدية",
+			"lt": "35.5913657",
+			"lng": "0.0596952",
+			"image": null
+		},
+		{
+			"code": "289",
+			"nom_fr": "MORSOTT",
+			"nom_ar": "مرسط",
+			"lt": "35.669225",
+			"lng": "8.0036645",
+			"image": null
+		},
+		{
+			"code": "293",
+			"nom_fr": "MOUZAIA",
+			"nom_ar": "موزاية",
+			"lt": "36.4704503",
+			"lng": "2.6918757",
+			"image": null
+		},
+		{
+			"code": "294",
+			"nom_fr": "M'SILA",
+			"nom_ar": "المسيلة",
+			"lt": "36.4704503",
+			"lng": "2.6918757",
+			"image": null
+		},
+		{
+			"code": "295",
+			"nom_fr": "M'ZITA-EL-MCHIR",
+			"nom_ar": "مزيتة المشير",
+			"lt": "0",
+			"lng": "0",
+			"image": null
+		},
+		{
+			"code": "297",
+			"nom_fr": "NAAMA",
+			"nom_ar": "النعامة",
+			"lt": "34.6015069",
+			"lng": "-2.2192856",
+			"image": null
+		},
+		{
+			"code": "298",
+			"nom_fr": "NACIRIA",
+			"nom_ar": "الناصرية",
+			"lt": "36.7491145",
+			"lng": "3.8379727",
+			"image": null
+		},
+		{
+			"code": "304",
+			"nom_fr": "OGGAZ",
+			"nom_ar": "عقاز",
+			"lt": "36.7491145",
+			"lng": "3.8379727",
+			"image": null
+		},
+		{
+			"code": "305",
+			"nom_fr": "ORAN",
+			"nom_ar": "وهران",
+			"lt": "35.69838529999999",
+			"lng": "-0.6384815999999999",
+			"image": null
+		},
+		{
+			"code": "306",
+			"nom_fr": "OUED CHOUK",
+			"nom_ar": "وادي الشوك",
+			"lt": "35.69838529999999",
+			"lng": "-0.6384815999999999",
+			"image": null
+		},
+		{
+			"code": "309",
+			"nom_fr": "OUED DAMOUS",
+			"nom_ar": "وادي الداموس",
+			"lt": "35.9921635",
+			"lng": "7.8354185",
+			"image": null
+		},
+		{
+			"code": "310",
+			"nom_fr": "OUED DJEMAA",
+			"nom_ar": "واد الجمعة",
+			"lt": "35.8217157",
+			"lng": "0.6626985",
+			"image": null
+		},
+		{
+			"code": "311",
+			"nom_fr": "OUED DJER",
+			"nom_ar": "واد جر",
+			"lt": "36.421291",
+			"lng": "2.565246",
+			"image": null
+		},
+		{
+			"code": "312",
+			"nom_fr": "OUED FODDA",
+			"nom_ar": "وادي الفضة",
+			"lt": "36.1896958",
+			"lng": "1.5360555",
+			"image": null
+		},
+		{
+			"code": "314",
+			"nom_fr": "OUED GHIR",
+			"nom_ar": "وادي غير",
+			"lt": "36.7054968",
+			"lng": "4.9822566",
+			"image": null
+		},
+		{
+			"code": "316",
+			"nom_fr": "OUED KEBRIT",
+			"nom_ar": "وادي الكبريت",
+			"lt": "35.92547",
+			"lng": "7.9189513",
+			"image": null
+		},
+		{
+			"code": "318",
+			"nom_fr": "OUED RHIOU",
+			"nom_ar": "وادي ارهيو",
+			"lt": "35.96769099999999",
+			"lng": "0.9146546999999997",
+			"image": null
+		},
+		{
+			"code": "319",
+			"nom_fr": "OUED SLY",
+			"nom_ar": "وادي سلي",
+			"lt": "36.1044817",
+			"lng": "1.1960598",
+			"image": null
+		},
+		{
+			"code": "320",
+			"nom_fr": "OUED SMAR",
+			"nom_ar": "وادي السمار",
+			"lt": "36.70377180000001",
+			"lng": "3.1721219",
+			"image": null
+		},
+		{
+			"code": "322",
+			"nom_fr": "OUED TLELAT",
+			"nom_ar": "وادي تليلات",
+			"lt": "35.5464101",
+			"lng": "-0.4519136",
+			"image": null
+		},
+		{
+			"code": "324",
+			"nom_fr": "OUED ZIED",
+			"nom_ar": "وادي زياد",
+			"lt": "35.5464101",
+			"lng": "-0.4519136",
+			"image": null
+		},
+		{
+			"code": "326",
+			"nom_fr": "OUED-ALI",
+			"nom_ar": "واد علي",
+			"lt": "0",
+			"lng": "0",
+			"image": null
+		},
+		{
+			"code": "329",
+			"nom_fr": "OULED MIMOUN",
+			"nom_ar": "أولاد ميمون",
+			"lt": "34.9018396",
+			"lng": "-1.0529711",
+			"image": null
+		},
+		{
+			"code": "330",
+			"nom_fr": "OULED DHIA",
+			"nom_ar": "واد دهية",
+			"lt": "34.9018396",
+			"lng": "-1.0529711",
+			"image": null
+		},
+		{
+			"code": "338",
+			"nom_fr": "OUM_BOUAGHI",
+			"nom_ar": "أم البواقي",
+			"lt": "34.9018396",
+			"lng": "-1.0529711",
+			"image": null
+		},
+		{
+			"code": "342",
+			"nom_fr": "R DEMOUCHE",
+			"nom_ar": "رجم دموش",
+			"lt": "34.4248334",
+			"lng": "-0.7872013",
+			"image": null
+		},
+		{
+			"code": "343",
+			"nom_fr": "RAMDANE DJAMEL",
+			"nom_ar": "رمضان جمال",
+			"lt": "36.7555655",
+			"lng": "6.9023123",
+			"image": null
+		},
+		{
+			"code": "345",
+			"nom_fr": "RAS EL MA",
+			"nom_ar": "رأس الماء",
+			"lt": "34.5020567",
+			"lng": "-0.819212",
+			"image": null
+		},
+		{
+			"code": "348",
+			"nom_fr": "REGHAIA",
+			"nom_ar": "الرغاية",
+			"lt": "36.7358577",
+			"lng": "3.3312392",
+			"image": null
+		},
+		{
+			"code": "349",
+			"nom_fr": "RELIZANE",
+			"nom_ar": "غليزان",
+			"lt": "35.7307044",
+			"lng": "0.547858",
+			"image": null
+		},
+		{
+			"code": "353",
+			"nom_fr": "ROUIBA",
+			"nom_ar": "الرويبة",
+			"lt": "36.7342389",
+			"lng": "3.2827222",
+			"image": null
+		},
+		{
+			"code": "362",
+			"nom_fr": "SIDI BEL ABBES",
+			"nom_ar": "سيدي بلعباس",
+			"lt": "35.19918659999999",
+			"lng": "-0.6383101",
+			"image": null
+		},
+		{
+			"code": "364",
+			"nom_fr": "SIDI EL HEMISSI",
+			"nom_ar": "سيدي الحميسي",
+			"lt": "35.19918659999999",
+			"lng": "-0.6383101",
+			"image": null
+		},
+		{
+			"code": "376",
+			"nom_fr": "SETIF",
+			"nom_ar": "سطيف",
+			"lt": "36.18734",
+			"lng": "5.4036937",
+			"image": null
+		},
+		{
+			"code": "378",
+			"nom_fr": "SI MUSTAPHA",
+			"nom_ar": "سي مصطفى",
+			"lt": "36.7221021",
+			"lng": "3.6232668",
+			"image": null
+		},
+		{
+			"code": "379",
+			"nom_fr": "SIDI AICH",
+			"nom_ar": "سيدي عيش",
+			"lt": "36.6077698",
+			"lng": "4.686627",
+			"image": null
+		},
+		{
+			"code": "381",
+			"nom_fr": "SIDI AMAR",
+			"nom_ar": "سيدي عمر",
+			"lt": "36.80974",
+			"lng": "7.7116713",
+			"image": null
+		},
+		{
+			"code": "382",
+			"nom_fr": "SIDI BADER",
+			"nom_ar": "سيدي بدر",
+			"lt": "36.80974",
+			"lng": "7.7116713",
+			"image": null
+		},
+		{
+			"code": "383",
+			"nom_fr": "SIDI BRAHIM",
+			"nom_ar": "سيدي براهيم",
+			"lt": "35.2607838",
+			"lng": "-0.5692861",
+			"image": null
+		},
+		{
+			"code": "388",
+			"nom_fr": "SIDI MAROUF",
+			"nom_ar": "سيدي معروف",
+			"lt": "35.687596",
+			"lng": "-0.5583182",
+			"image": null
+		},
+		{
+			"code": "389",
+			"nom_fr": "SIDI YAHIA",
+			"nom_ar": "سيدي يحى",
+			"lt": "35.6847857",
+			"lng": "-0.5442434",
+			"image": null
+		},
+		{
+			"code": "390",
+			"nom_fr": "SIDI MABROUK",
+			"nom_ar": "سيدي مبروك",
+			"lt": "36.3542249",
+			"lng": "6.6303665",
+			"image": null
+		},
+		{
+			"code": "392",
+			"nom_fr": "SIG",
+			"nom_ar": "سيق",
+			"lt": "35.5381538",
+			"lng": "-0.1954743",
+			"image": null
+		},
+		{
+			"code": "393",
+			"nom_fr": "SKIKDA",
+			"nom_ar": "سكيكدة",
+			"lt": "36.8833398",
+			"lng": "6.9048306",
+			"image": null
+		},
+		{
+			"code": "395",
+			"nom_fr": "SOUK AHRAS",
+			"nom_ar": "سوق اهراس",
+			"lt": "36.2806248",
+			"lng": "7.9520067",
+			"image": null
+		},
+		{
+			"code": "399",
+			"nom_fr": "TABIA",
+			"nom_ar": "طابية",
+			"lt": "35.022054",
+			"lng": "-0.7428699999999999",
+			"image": null
+		},
+		{
+			"code": "400",
+			"nom_fr": "TADJENANET",
+			"nom_ar": "تاجنانت",
+			"lt": "36.112289",
+			"lng": "5.984340",
+			"image": null
+		},
+		{
+			"code": "401",
+			"nom_fr": "TADMAIT",
+			"nom_ar": "تادمايت",
+			"lt": "36.7422607",
+			"lng": "3.880118",
+			"image": null
+		},
+		{
+			"code": "404",
+			"nom_fr": "TAKRIETS-SEDDOUK",
+			"nom_ar": "تقريات سدوق",
+			"lt": "36.7422607",
+			"lng": "3.880118",
+			"image": null
+		},
+		{
+			"code": "405",
+			"nom_fr": "TAMALOUS",
+			"nom_ar": "تمالوس",
+			"lt": "36.7422607",
+			"lng": "3.880118",
+			"image": null
+		},
+		{
+			"code": "409",
+			"nom_fr": "TARJA",
+			"nom_ar": "تارجا",
+			"lt": "36.7422607",
+			"lng": "3.880118",
+			"image": null
+		},
+		{
+			"code": "410",
+			"nom_fr": "TAZMALT",
+			"nom_ar": "تازمالت",
+			"lt": "36.3630136",
+			"lng": "4.3658977",
+			"image": null
+		},
+		{
+			"code": "411",
+			"nom_fr": "TEBESSA",
+			"nom_ar": "تبسة",
+			"lt": "35.4067",
+			"lng": "8.1193113",
+			"image": null
+		},
+		{
+			"code": "412",
+			"nom_fr": "TELEGMA",
+			"nom_ar": "تلاغمة",
+			"lt": "36.1119756",
+			"lng": "6.3550157",
+			"image": null
+		},
+		{
+			"code": "413",
+			"nom_fr": "AIN TEMOUCHENT",
+			"nom_ar": "عين تيموشنت",
+			"lt": "36.1119756",
+			"lng": "6.3550157",
+			"image": null
+		},
+		{
+			"code": "415",
+			"nom_fr": "THENIA",
+			"nom_ar": "الثنية",
+			"lt": "36.725232",
+			"lng": "3.5529626",
+			"image": null
+		},
+		{
+			"code": "416",
+			"nom_fr": "TIARET",
+			"nom_ar": "تيارت",
+			"lt": "36.725232",
+			"lng": "3.5529626",
+			"image": null
+		},
+		{
+			"code": "417",
+			"nom_fr": "TIDJELABINE",
+			"nom_ar": "تيجلابين",
+			"lt": "36.7316071",
+			"lng": "3.5004863",
+			"image": null
+		},
+		{
+			"code": "419",
+			"nom_fr": "TIOUT",
+			"nom_ar": "تيوت",
+			"lt": "32.7583241",
+			"lng": "-0.4686188",
+			"image": null
+		},
+		{
+			"code": "423",
+			"nom_fr": "TIZI OUZOU",
+			"nom_ar": "تيزي وزو",
+			"lt": "36.723421",
+			"lng": "4.0076419",
+			"image": null
+		},
+		{
+			"code": "424",
+			"nom_fr": "TLEMCEN",
+			"nom_ar": "تلمسان",
+			"lt": "34.8905248",
+			"lng": "-1.3276047",
+			"image": null
+		},
+		{
+			"code": "425",
+			"nom_fr": "TOUGGOURT",
+			"nom_ar": "تقرت",
+			"lt": "33.1113252",
+			"lng": "6.0690206",
+			"image": null
+		},
+		{
+			"code": "428",
+			"nom_fr": "TRALIMET",
+			"nom_ar": "تغاليمات",
+			"lt": "34.8905248",
+			"lng": "-1.3276047",
+			"image": null
+		},
+		{
+			"code": "429",
+			"nom_fr": "TUILLERIES",
+			"nom_ar": "الخراطيم",
+			"lt": "34.8905248",
+			"lng": "-1.3276047",
+			"image": null
+		},
+		{
+			"code": "431",
+			"nom_fr": "YELLEL",
+			"nom_ar": "يلل",
+			"lt": "35.7239669",
+			"lng": "0.3521734",
+			"image": null
+		},
+		{
+			"code": "432",
+			"nom_fr": "ZAHANA",
+			"nom_ar": "زهانة",
+			"lt": "35.7239669",
+			"lng": "0.3521734",
+			"image": null
+		},
+		{
+			"code": "433",
+			"nom_fr": "ZELBOUN",
+			"nom_ar": "زلبون",
+			"lt": "34.8550713",
+			"lng": "-1.4330796",
+			"image": null
+		},
+		{
+			"code": "435",
+			"nom_fr": "ZIGHOUT Y",
+			"nom_ar": "زيغود يوسف",
+			"lt": "36.5291693",
+			"lng": "6.7030605",
+			"image": null
+		},
+		{
+			"code": "438",
+			"nom_fr": "ROUIBA INDUSTRIEL",
+			"nom_ar": "روبية الصناعية",
+			"lt": "36.7332466",
+			"lng": "3.30135",
+			"image": null
+		},
+		{
+			"code": "439",
+			"nom_fr": "REGHAIA INDUSTRIEL",
+			"nom_ar": "رغاية الصناعية",
+			"lt": "36.7366252",
+			"lng": "3.3106599",
+			"image": null
+		},
+		{
+			"code": "440",
+			"nom_fr": "DIDOUCH MOURAD",
+			"nom_ar": "ديدوش مراد",
+			"lt": "36.4422464",
+			"lng": "6.632876",
+			"image": null
+		},
+		{
+			"code": "442",
+			"nom_fr": "OAIC KHROUB",
+			"nom_ar": "د.ج.م.ح الخروب",
+			"lt": "36.4422464",
+			"lng": "6.632876",
+			"image": null
+		},
+		{
+			"code": "443",
+			"nom_fr": "CHALET DES PINS",
+			"nom_ar": "شاليه الصنوبر",
+			"lt": "36.4422464",
+			"lng": "6.632876",
+			"image": null
+		},
+		{
+			"code": "445",
+			"nom_fr": "KEF NAAJA",
+			"nom_ar": "كاف نعجة",
+			"lt": "36.6987377",
+			"lng": "4.0283732",
+			"image": null
+		},
+		{
+			"code": "446",
+			"nom_fr": "OUED AISSI",
+			"nom_ar": "واد عيسى",
+			"lt": "36.6992531",
+			"lng": "4.114766",
+			"image": null
+		},
+		{
+			"code": "447",
+			"nom_fr": "HOUCEINIA",
+			"nom_ar": "الحسينية",
+			"lt": "36.322658",
+			"lng": "2.403434",
+			"image": null
+		},
+		{
+			"code": "448",
+			"nom_fr": "MELIANA",
+			"nom_ar": "مليانة",
+			"lt": "36.322658",
+			"lng": "2.403434",
+			"image": null
+		},
+		{
+			"code": "449",
+			"nom_fr": "SIDI MDJAHED",
+			"nom_ar": "سيدي مجاهد",
+			"lt": "34.774711",
+			"lng": "-1.6391139",
+			"image": null
+		},
+		{
+			"code": "450",
+			"nom_fr": "DJENIENE MESKINE",
+			"nom_ar": "جنان مسكين",
+			"lt": "34.774711",
+			"lng": "-1.6391139",
+			"image": null
+		},
+		{
+			"code": "453",
+			"nom_fr": "IMAMA",
+			"nom_ar": "ايمامة",
+			"lt": "35.2982184",
+			"lng": "-1.1396223",
+			"image": null
+		},
+		{
+			"code": "454",
+			"nom_fr": "OUED ZITOUN",
+			"nom_ar": "واد الزيتون",
+			"lt": "35.2982184",
+			"lng": "-1.1396223",
+			"image": null
+		},
+		{
+			"code": "456",
+			"nom_fr": "ARZEW",
+			"nom_ar": "ارزيو",
+			"lt": "35.84734",
+			"lng": "-0.3199364",
+			"image": null
+		},
+		{
+			"code": "457",
+			"nom_fr": "HAI EL SABAH",
+			"nom_ar": "حي الصباح",
+			"lt": "35.690352",
+			"lng": "-0.568065",
+			"image": null
+		},
+		{
+			"code": "459",
+			"nom_fr": "HASSI BOUNIF",
+			"nom_ar": "حاسي بونيف",
+			"lt": "35.6899505",
+			"lng": "-0.4917805",
+			"image": null
+		},
+		{
+			"code": "460",
+			"nom_fr": "HASSI AMEUR",
+			"nom_ar": "حاسي عمور",
+			"lt": "35.6971944",
+			"lng": "-0.4846218",
+			"image": null
+		},
+		{
+			"code": "461",
+			"nom_fr": "HASSI BEN OKBA",
+			"nom_ar": "حاسي بن عقية",
+			"lt": "35.7122598",
+			"lng": "-0.4633799",
+			"image": null
+		},
+		{
+			"code": "462",
+			"nom_fr": "GDYEL",
+			"nom_ar": "قديل",
+			"lt": "35.7742732",
+			"lng": "-0.4273238",
+			"image": null
+		},
+		{
+			"code": "464",
+			"nom_fr": "MOHGOUN",
+			"nom_ar": "محقن",
+			"lt": "35.82030",
+			"lng": "-0.34484",
+			"image": null
+		},
+		{
+			"code": "465",
+			"nom_fr": "SIDI ACHOUR",
+			"nom_ar": "سيدي عاشور",
+			"lt": "35.8272871",
+			"lng": "-0.360231",
+			"image": null
+		},
+		{
+			"code": "466",
+			"nom_fr": "AIN KECHRA",
+			"nom_ar": "عين كشرة",
+			"lt": "35.8272871",
+			"lng": "-0.360231",
+			"image": null
+		},
+		{
+			"code": "467",
+			"nom_fr": "TAKOUKA",
+			"nom_ar": "تكتوكة",
+			"lt": "35.8272871",
+			"lng": "-0.360231",
+			"image": null
+		},
+		{
+			"code": "468",
+			"nom_fr": "GARITA",
+			"nom_ar": "قارطا",
+			"lt": "35.6855497",
+			"lng": "-0.5058026",
+			"image": null
+		},
+		{
+			"code": "470",
+			"nom_fr": "Bekira",
+			"nom_ar": "بكيرة",
+			"lt": "36.39242",
+			"lng": "6.6056013",
+			"image": null
+		},
+		{
+			"code": "471",
+			"nom_fr": "Drean",
+			"nom_ar": "الذرعان",
+			"lt": "36.68742",
+			"lng": "7.7464213",
+			"image": null
+		},
+		{
+			"code": "472",
+			"nom_fr": "Djenien Boureizg",
+			"nom_ar": "جنين بورزق",
+			"lt": "32.3702208",
+			"lng": "-0.7980772",
+			"image": null
+		},
+		{
+			"code": "473",
+			"nom_fr": "Chabat El Lham",
+			"nom_ar": "شعبة اللحم",
+			"lt": "35.3371373",
+			"lng": "-1.1067619",
+			"image": null
+		},
+		{
+			"code": "474",
+			"nom_fr": "Fac Hadj Lakhder",
+			"nom_ar": "جامعة حاج لخضر",
+			"lt": "35.3371373",
+			"lng": "-1.1067619",
+			"image": null
+		},
+		{
+			"code": "475",
+			"nom_fr": "El KSAR",
+			"nom_ar": "القصر",
+			"lt": "36.6720651",
+			"lng": "4.8593906",
+			"image": null
+		},
+		{
+			"code": "476",
+			"nom_fr": "EL AOUINET",
+			"nom_ar": "العوينات",
+			"lt": "35.8669",
+			"lng": "7.8872913",
+			"image": null
+		},
+		{
+			"code": "477",
+			"nom_fr": "EL KHARMA",
+			"nom_ar": "الكرمة",
+			"lt": "35.8669",
+			"lng": "7.8872913",
+			"image": null
+		},
+		{
+			"code": "478",
+			"nom_fr": "HAMOUDI KROUMA",
+			"nom_ar": "حمادي كرومة",
+			"lt": "36.8494484",
+			"lng": "6.9303237",
+			"image": null
+		},
+		{
+			"code": "479",
+			"nom_fr": "HASSI MAFSOUKH",
+			"nom_ar": "حاسي مفسوخ",
+			"lt": "35.7859458",
+			"lng": "-0.3751335",
+			"image": null
+		},
+		{
+			"code": "480",
+			"nom_fr": "HAMMA BOUZIANE",
+			"nom_ar": "حامة بوزيان",
+			"lt": "36.4083127",
+			"lng": "6.6009538",
+			"image": null
+		},
+		{
+			"code": "481",
+			"nom_fr": "MANBAA EL GHAZEL",
+			"nom_ar": "منيع الغزال",
+			"lt": "35.1195485",
+			"lng": "5.6100957",
+			"image": null
+		},
+		{
+			"code": "482",
+			"nom_fr": "OUED MOUGRAS",
+			"nom_ar": "واد مغراس",
+			"lt": "35.1195485",
+			"lng": "5.6100957",
+			"image": null
+		},
+		{
+			"code": "483",
+			"nom_fr": "OUED FARAH",
+			"nom_ar": "واد فرارحة",
+			"lt": "36.5551507",
+			"lng": "7.7138137",
+			"image": null
+		},
+		{
+			"code": "484",
+			"nom_fr": "MADROUMA",
+			"nom_ar": "مدرومة",
+			"lt": "36.5551507",
+			"lng": "7.7138137",
+			"image": null
+		},
+		{
+			"code": "485",
+			"nom_fr": "PASTEUR",
+			"nom_ar": "باستور",
+			"lt": "36.5551507",
+			"lng": "7.7138137",
+			"image": null
+		},
+		{
+			"code": "486",
+			"nom_fr": "OULED RAHMOUNE",
+			"nom_ar": "ولاد رحمون",
+			"lt": "36.17134",
+			"lng": "6.6926349",
+			"image": null
+		},
+		{
+			"code": "487",
+			"nom_fr": "OUED HAMIMINE",
+			"nom_ar": "واد حميمين",
+			"lt": "36.2955295",
+			"lng": "6.6830727",
+			"image": null
+		},
+		{
+			"code": "488",
+			"nom_fr": "KEF SALAH",
+			"nom_ar": "كاف صالح",
+			"lt": "36.4042496",
+			"lng": "6.5993472",
+			"image": null
+		},
+		{
+			"code": "489",
+			"nom_fr": "OUMACHE",
+			"nom_ar": "أوماش",
+			"lt": "36.4042496",
+			"lng": "6.5993472",
+			"image": null
+		},
+		{
+			"code": "490",
+			"nom_fr": "DJERMA",
+			"nom_ar": "جرمة",
+			"lt": "35.65809",
+			"lng": "6.30806",
+			"image": null
+		},
+		{
+			"code": "491",
+			"nom_fr": "SALAH BOUCHAOUR",
+			"nom_ar": "صالح بوشعور",
+			"lt": "36.70558",
+			"lng": "6.8497413",
+			"image": null
+		},
+		{
+			"code": "492",
+			"nom_fr": "SAFSAF",
+			"nom_ar": "الصفصاف",
+			"lt": "36.70558",
+			"lng": "6.8497413",
+			"image": null
+		},
+		{
+			"code": "493",
+			"nom_fr": "TOGHZA",
+			"nom_ar": "توغزة",
+			"lt": "36.70558",
+			"lng": "6.8497413",
+			"image": null
+		},
+		{
+			"code": "494",
+			"nom_fr": "AIN BELDHA",
+			"nom_ar": "عين البيضة",
+			"lt": "36.70558",
+			"lng": "6.8497413",
+			"image": null
+		},
+		{
+			"code": "495",
+			"nom_fr": "IGHZER AMOUKRAN",
+			"nom_ar": "إغزار أمقران",
+			"lt": "36.5248175",
+			"lng": "4.5989613",
+			"image": null
+		},
+		{
+			"code": "496",
+			"nom_fr": "SABRA",
+			"nom_ar": "صبرة",
+			"lt": "34.826476",
+			"lng": "-1.523199",
+			"image": null
+		},
+		{
+			"code": "498",
+			"nom_fr": "BOUKHAMOUZA",
+			"nom_ar": "بوخموزة",
+			"lt": "36.5814148",
+			"lng": "7.754138",
+			"image": null
+		},
+		{
+			"code": "499",
+			"nom_fr": "REGOUCHE AHMED",
+			"nom_ar": "رقوش احمد",
+			"lt": "36.5814148",
+			"lng": "7.754138",
+			"image": null
+		},
+		{
+			"code": "500",
+			"nom_fr": "ROUINA",
+			"nom_ar": "روينة",
+			"lt": "36.248668",
+			"lng": "1.8099161",
+			"image": null
+		},
+		{
+			"code": "501",
+			"nom_fr": "ARIB",
+			"nom_ar": "عريب",
+			"lt": "36.2883972",
+			"lng": "2.0665288",
+			"image": null
+		},
+		{
+			"code": "502",
+			"nom_fr": "BENI SAF",
+			"nom_ar": "بني صاف",
+			"lt": "35.3127909",
+			"lng": "-1.3381827",
+			"image": null
+		},
+		{
+			"code": "503",
+			"nom_fr": "OULED BENZIANE",
+			"nom_ar": "واد بن زيان",
+			"lt": "35.3127909",
+			"lng": "-1.3381827",
+			"image": null
+		},
+		{
+			"code": "504",
+			"nom_fr": "MOSTAGANEM",
+			"nom_ar": "مستغانم",
+			"lt": "35.9300279",
+			"lng": "0.0938869",
+			"image": null
+		},
+		{
+			"code": "505",
+			"nom_fr": "SIDI ABID",
+			"nom_ar": "سيدي عابيد",
+			"lt": "0",
+			"lng": "0",
+			"image": null
+		},
+		{
+			"code": "506",
+			"nom_fr": "SIDI BENZERGA",
+			"nom_ar": "سيدي بن زرقة",
+			"lt": "0",
+			"lng": "0",
+			"image": null
+		},
+		{
+			"code": "507",
+			"nom_fr": "OUED TINN",
+			"nom_ar": "واد التين",
+			"lt": "0",
+			"lng": "0",
+			"image": null
+		},
+		{
+			"code": "508",
+			"nom_fr": "FORNAKA",
+			"nom_ar": "فورناكة",
+			"lt": "35.7569439",
+			"lng": "-0.0237716",
+			"image": null
+		},
+		{
+			"code": "509",
+			"nom_fr": "AIN NOUISSY",
+			"nom_ar": "عين نوسي",
+			"lt": "0",
+			"lng": "0",
+			"image": null
+		},
+		{
+			"code": "510",
+			"nom_fr": "HASSI MAMECHE",
+			"nom_ar": "حاسي مماش",
+			"lt": "35.8589394",
+			"lng": "0.075816",
+			"image": null
+		},
+		{
+			"code": "511",
+			"nom_fr": "MAZAGRAN",
+			"nom_ar": "مزقان",
+			"lt": "0",
+			"lng": "0",
+			"image": null
+		},
+		{
+			"code": "512",
+			"nom_fr": "RAS EL OUED",
+			"nom_ar": "راس الواد",
+			"lt": "36.04809",
+			"lng": "5.08459",
+			"image": null
+		},
+		{
+			"code": "513",
+			"nom_fr": "AZZAGHAR",
+			"nom_ar": "ازغار",
+			"lt": "36.0348843",
+			"lng": "5.0034113",
+			"image": null
+		},
+		{
+			"code": "516",
+			"nom_fr": "TAMEZRIT-IL-MATTEN",
+			"nom_ar": "تيمزيرت",
+			"lt": "0",
+			"lng": "0",
+			"image": null
+		},
+		{
+			"code": "517",
+			"nom_fr": "HAMMA -MARCH",
+			"nom_ar": "حامة مراش",
+			"lt": "0",
+			"lng": "0",
+			"image": null
+		},
+		{
+			"code": "518",
+			"nom_fr": "AIN BOUZIANE",
+			"nom_ar": "عين بوزيان",
+			"lt": "36.598176",
+			"lng": "6.7491901",
+			"image": null
+		},
+		{
+			"code": "519",
+			"nom_fr": "SIDI ABEDMOUMEN",
+			"nom_ar": "سيدي عبد المومن",
+			"lt": "36.598176",
+			"lng": "6.7491901",
+			"image": null
+		},
+		{
+			"code": "520",
+			"nom_fr": "MERS EL HADJADJ (GRANDE PLAGE)",
+			"nom_ar": "مرسى الحجاج الشاطئ",
+			"lt": "36.598176",
+			"lng": "6.7491901",
+			"image": null
+		},
+		{
+			"code": "521",
+			"nom_fr": "MERS EL HADJADJ (TERMINUS)",
+			"nom_ar": "مرسى الحجاج",
+			"lt": "36.598176",
+			"lng": "6.7491901",
+			"image": null
+		},
+		{
+			"code": "522",
+			"nom_fr": "LA MACTA",
+			"nom_ar": "لمقطة",
+			"lt": "36.598176",
+			"lng": "6.7491901",
+			"image": null
+		},
+		{
+			"code": "523",
+			"nom_fr": "EL-KANTARA-GORGES",
+			"nom_ar": "القنطرة قرقز",
+			"lt": "36.598176",
+			"lng": "6.7491901",
+			"image": null
+		},
+		{
+			"code": "524",
+			"nom_fr": "TESSALA EL MERDJA",
+			"nom_ar": "تسالة المرجة",
+			"lt": "36.6392917",
+			"lng": "2.9356505",
+			"image": null
+		},
+		{
+			"code": "525",
+			"nom_fr": "SIDI ABD ALLAH",
+			"nom_ar": "سيدي عبد الله",
+			"lt": "36.6803814",
+			"lng": "2.8913239",
+			"image": null
+		},
+		{
+			"code": "527",
+			"nom_fr": "ZERALDA",
+			"nom_ar": "زرالدة",
+			"lt": "36.7021107",
+			"lng": "2.8488037",
+			"image": null
+		},
+		{
+			"code": "528",
+			"nom_fr": "SIDI ABD ALLAH  UniveristÃƒÂ©",
+			"nom_ar": "سيدي عبد الله الجامعة",
+			"lt": "36.6913811",
+			"lng": "2.8689555",
+			"image": null
+		},
+		{
+			"code": "529",
+			"nom_fr": "El KSEUR",
+			"nom_ar": "القصور",
+			"lt": "36.5346713",
+			"lng": "3.6870701",
+			"image": null
+		},
+		{
+			"code": "530",
+			"nom_fr": "OUED AISSI UNIVERSITE",
+			"nom_ar": "واد عيسى الجامعة",
+			"lt": "36.6992531",
+			"lng": "4.114766",
+			"image": null
+		},
+		{
+			"code": "531",
+			"nom_fr": "SAIDA",
+			"nom_ar": "سعيدة",
+			"lt": "34.8419789",
+			"lng": "0.1186136",
+			"image": null
+		},
+		{
+			"code": "532",
+			"nom_fr": "YOUB",
+			"nom_ar": "يوب",
+			"lt": "34.9141947",
+			"lng": "-0.2129389",
+			"image": null
+		},
+		{
+			"code": "533",
+			"nom_fr": "TELEGH",
+			"nom_ar": "تلاغ",
+			"lt": "34.7686206",
+			"lng": "-0.5656048",
+			"image": null
+		},
+		{
+			"code": "534",
+			"nom_fr": "MOULEY SLISSEN",
+			"nom_ar": "مولاي سليسين",
+			"lt": "34.8233368",
+			"lng": "-0.7567439",
+			"image": null
+		},
+		{
+			"code": "535",
+			"nom_fr": "SIDI ALI BENYOUB",
+			"nom_ar": "سيدي علي بن يوب",
+			"lt": "34.9416436",
+			"lng": "-0.7282842",
+			"image": null
+		},
+		{
+			"code": "537",
+			"nom_fr": "SOUK-EL-HAD",
+			"nom_ar": "سوق الأحد",
+			"lt": "36.68905350000001",
+			"lng": "3.5811111",
+			"image": null
+		},
+		{
+			"code": "538",
+			"nom_fr": "Berrahal",
+			"nom_ar": "برحال",
+			"lt": "36.831104",
+			"lng": "7.452335",
+			"image": null
+		},
+		{
+			"code": "539",
+			"nom_fr": "HANIF",
+			"nom_ar": "حنيف",
+			"lt": "36.3343857",
+			"lng": "4.2598204",
+			"image": null
+		},
+		{
+			"code": "547",
+			"nom_fr": "Bir aissa ayada",
+			"nom_ar": "عين تسرة",
+			"lt": "36.03523",
+			"lng": "5.00523",
+			"image": null
+		},
+		{
+			"code": "548",
+			"nom_fr": "EL-annasser",
+			"nom_ar": "العناصر",
+			"lt": "36.03691",
+			"lng": "4.81417",
+			"image": null
+		},
+		{
+			"code": "551",
+			"nom_fr": "KHADIRIA",
+			"nom_ar": "القادرية",
+			"lt": "36.5346713",
+			"lng": "3.6870701",
+			"image": null
+		},
+		{
+			"code": "558",
+			"nom_fr": "STIL",
+			"nom_ar": "ستيل",
+			"lt": "34.262891",
+			"lng": "5.919495",
+			"image": null
+		}
+	]
+}
